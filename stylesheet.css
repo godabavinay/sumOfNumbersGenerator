@@ -1,0 +1,67 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #efefef;
+    padding: 100px;
+    margin: 100px;;
+}
+
+h1 {
+    font-size: 15pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 15px 0;
+}
+
+h1 span {
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 0;
+    padding: 15px;
+}
+
+#submit {
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    outline: none;
+}
+
+textarea {
+    padding: 15px;
+    text-align: center;
+}
